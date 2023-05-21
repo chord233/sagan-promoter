@@ -1,2 +1,2 @@
 # sagan-promoter
-This is the code for the paper "Improving synthetic promoter design with adversarial generative networks with self-attention"
+This is the code for the paper "Enhancing Synthetic Promoter Design through Generative Adversarial Networks with Self-Attention mechanism"
